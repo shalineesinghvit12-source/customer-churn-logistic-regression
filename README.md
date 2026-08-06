@@ -101,7 +101,7 @@ customer-churn-logistic-regression/
 ### Local environment
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/shalineesinghvit12-source/customer-churn-logistic-regression.git
 cd customer-churn-logistic-regression
 python -m venv .venv
 source .venv/bin/activate
