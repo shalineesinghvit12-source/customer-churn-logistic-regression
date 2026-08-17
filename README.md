@@ -1,5 +1,7 @@
 # Customer Churn Prediction Using Logistic Regression
 
+[![Notebook validation](https://github.com/shalineesinghvit12-source/customer-churn-logistic-regression/actions/workflows/notebook-validation.yml/badge.svg)](https://github.com/shalineesinghvit12-source/customer-churn-logistic-regression/actions/workflows/notebook-validation.yml)
+
 ## Overview
 
 This project develops an interpretable logistic regression model to predict customer churn using subscription length, complaints filed, satisfaction score, and discount usage.
